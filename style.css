@@ -1,0 +1,44 @@
+table, tr, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.primera-fila {
+    background-color: aquamarine;
+}
+.segunda-fila {
+    background-color: cadetblue;
+}
+
+.tercer-fila {
+    background-color: cornflowerblue;
+}
+
+td {
+    height: 100px;
+    text-align: center;
+    padding: 1.5rem;
+    font-family: Georgia;
+}
+
+.cuarta-fila {
+    background-color: rgb(255, 83, 83);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans';
+
+}
+
+div {
+    padding: 20px 5px;
+    border: 1px solid black;
+    margin: 15px;
+    text-align: center;
+    float: left;
+}
+
+.caja-maestra {
+    border: none;
+}
